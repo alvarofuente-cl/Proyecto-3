@@ -311,8 +311,8 @@ ScrollReveal().reveal(".container__content h1", {
 
 
 
-Desplegué el sitio utilizando GitHub Pages para que estuviera accesible en línea. Puedes visitar el sitio en Valeria Pastelera.
-https://mariavaleriavarela.github.io/Proyecto3/
+Utilicé la herramienta de GitHub Pages para que se publicara en línea. El sitio de Fuentes Keim SPa está en el siguiente enlace:
+[https://mariavaleriavarela.github.io/Proyecto3/](https://alvarofuente-cl.github.io/Proyecto-3/)
 
 # Conclusión:
 
